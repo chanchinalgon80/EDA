@@ -74,7 +74,8 @@ Determine the execution time for a simple loop combined with a nested loop of le
 
 
 ### Improved Prompt
-``` Develop a Python script to measure the execution time of a nested loop structure consisting of a simple outer loop and a level 2 inner loop. The inner loop should perform a basic arithmetic operation, such as multiplying the loop indices (i * j). Test the script for the following values of n: 100, 400, 600, 800, 1000, and 1100. The goal is to analyze how the processing time scales with increasing values of n and to provide insights into the time complexity of the algorithm. Ensure the script outputs both the processing time and the result of the arithmetic operation for each n. Additionally, specify the Python version and environment in which the script should be executed.
+```
+Develop a Python script to measure the execution time of a nested loop structure consisting of a simple outer loop and a level 2 inner loop. The inner loop should perform a basic arithmetic operation, such as multiplying the loop indices (i * j). Test the script for the following values of n: 100, 400, 600, 800, 1000, and 1100. The goal is to analyze how the processing time scales with increasing values of n and to provide insights into the time complexity of the algorithm. Ensure the script outputs both the processing time and the result of the arithmetic operation for each n. Additionally, specify the Python version and environment in which the script should be executed.
 ```
 
 
